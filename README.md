@@ -1,7 +1,7 @@
-# chefassignment 
+# chefassignment
 Guidance:
 
-Linux Distro: Ubuntu or Centos
+Linux Distro: Ubuntu or Centos.
 Create one VM as a Chef Server.
 The Chef-Server VM should be configure as the your Chef workstation
 The second VM will be the chef-client.
